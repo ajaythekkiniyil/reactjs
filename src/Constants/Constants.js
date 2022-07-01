@@ -1,6 +1,6 @@
 var urls={
-    apiBaseUrl:'http://localhost:4000/api',
-    serverDomain:'http://localhost:4001',
+    apiBaseUrl:'http://174.138.8.54/api',
+    serverDomain:'http://174.138.8.54',
 }
 
 export default urls
