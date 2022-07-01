@@ -1,0 +1,25 @@
+.audit-title{
+    border-bottom: 2px solid #b90e50;
+    width: 51px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    padding: 10px 0 0 0;
+}
+.audit-box{
+    background-color: white;
+    padding: 30px;
+    margin: 20px 0;
+    box-shadow: 1px 1px 5px 0px rgb(134 134 134 / 75%);
+    border-radius: 8px;
+}
+.audit-box input ,.audit-box textarea {
+    border-radius: 8px;
+    padding: 5px 10px; 
+    border: 1px solid #cfcfcf;
+    outline: none;
+}
+.audit-btn{
+    background: transparent;
+    outline: none;
+    border: none;
+}

@@ -1,0 +1,26 @@
+.create-asset{
+    padding: 30px;
+    width: 100%;
+}
+.create-asset input, textarea{
+    width: 100%;
+    padding: 5px 10px;
+}
+.create-asset select{
+    width: 100%;
+    padding: 10px;
+}
+.data-form {
+    background: #ffffff;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    border-top: 2px solid green;
+}
+.savebtn{
+    color: green;
+}
+.savebtn:hover{
+    color: green;
+}

@@ -1,0 +1,54 @@
+.aoc-assets a{
+    text-decoration: none;
+    color: rgb(6, 134, 219);
+}
+.col-sm-4.hidden-xs {
+    display: none;
+}
+.table>:not(caption)>*>* {
+    padding: 20px 10px;
+    width: 200px;
+}
+span.sortable {
+    padding-right: 8px;
+    font-weight: 500;
+}
+.filterable-table-container {
+    width: 3400px;
+}
+span.filter-container {
+    display: flex;
+}
+span.close.clear-filter {
+    font-size: 30px;
+}
+.col-sm-3.filter-container {
+    width: 400px;
+}
+.col-sm-5.col-sm-push-4 {
+    width: 200px;
+}
+.col-sm-4.col-sm-pull-4.text-center.text-muted.record-count {
+    width: 200px;
+}
+.aoc-assets .fa-sort, .fa-sort-asc, .fa-sort-desc{
+    font-size: 12px;
+    color: crimson;
+}
+.asset-details-a-tag{
+    color: rgb(0, 124, 155) !important;
+    cursor: pointer;
+}
+.actions{ 
+    cursor: pointer;
+}
+.actions .fa-trash-can{
+    background: red;
+    color: #fff;
+    padding: 8px;
+}
+.actions .fa-file-pen{
+    background: rgb(255, 244, 244);
+    color: rgb(49, 49, 49);
+    padding: 8px;
+}

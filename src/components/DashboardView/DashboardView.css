@@ -1,0 +1,36 @@
+.dashboard-View {
+    padding: 10px;
+}
+.dashboard-View .fa-circle-arrow-up{
+    color: green;
+}
+.dashboard-View .fa-computer{
+    color: rgb(54, 42, 99);
+    font-size: 60px;
+}
+.dashboard-View .fa-users{
+    color: rgb(104, 3, 45);
+    font-size: 60px;
+}
+.dashboard-View .fa-video{
+    color: rgb(3, 61, 109);
+    font-size: 60px;
+}
+.dashboard-View .fa-network-wired{
+    color: rgb(17, 39, 56);
+    font-size: 60px;
+}
+.dashboard-View .texts {
+    padding: 0 20px ;
+}
+.dashboard-View .inner-box{
+    background-color: rgb(255, 255, 255);
+    padding: 13px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 5px 0px rgb(134 134 134 / 75%);
+}
+#myChart1, #myChart2{
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 1px 1px 5px 0px rgb(134 134 134 / 75%);
+}
